@@ -1,1 +1,0 @@
-# Apache-Iceberg-A-Comprehensive-Guide-to-the-Data-Lakehouse

@@ -1,6 +1,5 @@
 # Apache Iceberg: A Comprehensive Guide to the Data Lakehouse
 
-> **Based on a video series featuring Alex Merced (Developer Advocate at Dremio), hosted by Mustafa**
 > This guide synthesizes both the introductory presentation and the hands-on demo into a single, complete reference.
 
 ---
